@@ -1,2 +1,9 @@
-# Dashboard-Kerma-Laravel
-Dashboard-Kerma-Laravel
+# Project-Basdat-Laravel
+Role Reviewer-Menu Dashboard
+
+Kelompok 10
+Aldi Muhamad FIkri     (3332200031),
+Muhammad Piqri Nurseha (3332200067),
+Wijdan Fajri Ramadhan  (3332200046),
+Miftah Hayati          (3332200069),
+Khatibul Umam          (3332200085)
